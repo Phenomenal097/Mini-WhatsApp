@@ -1,6 +1,6 @@
 A minimal WhatsApp-like chat application built using Node.js, Express, and MongoDB. It allows users to create, view, update, and delete chat messages — demonstrating full CRUD functionality.
 
-📁 Features
+📁 Features:
 📝 Create a new chat message
 📖 Read all chat messages
 ✏️ Update existing messages
@@ -9,7 +9,7 @@ A minimal WhatsApp-like chat application built using Node.js, Express, and Mongo
 🔁 Clean routing using Express.js
 
 
-⚙️ Tech Stack
+⚙️ Tech Stack:
 Node.js
 Express.js
 MongoDB (via Mongoose)
