@@ -1,0 +1,14 @@
+.chatbox {
+    background-color: aquamarine;
+    margin-left: 5px;
+    border-radius: 20px;
+    padding: 2px;
+    display: inline-block;
+}
+
+.message {
+    background-color:beige;
+    border-radius: 25px;
+    margin: 2px;
+    padding: auto;
+}
